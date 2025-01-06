@@ -3,6 +3,11 @@
     width: 100%; /* Ensures it adapts to the screen size */
     padding: 1rem;
 }
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
 *{
     margin: 0;
     padding: 0;
