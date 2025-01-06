@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
-
+.container {
+    width: 100%; /* Ensures it adapts to the screen size */
+    padding: 1rem;
+}
 *{
     margin: 0;
     padding: 0;
